@@ -1,0 +1,4 @@
+gcc -c kmeans_hdr.c -o kmeans_hdr.o
+ar rcs libkmeans_hdr.a kmeans_hdr.o
+gcc -static main.c -L. -lkmeans_hdr -o main.o -lm
+main.o
