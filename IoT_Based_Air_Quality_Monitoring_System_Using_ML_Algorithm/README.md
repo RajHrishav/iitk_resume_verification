@@ -1,4 +1,4 @@
-# Final Year Project
+# Project
 
 IOT Based Air Quality Monitoring System Using Machine learning Algorithm
 
